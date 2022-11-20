@@ -4,6 +4,6 @@ fun main() {
     println(age)
 
     // floating number
-    var sample: Float = 10.10F
+    var sample: Float = 10.10Fknknk
     println(sample)
 }
