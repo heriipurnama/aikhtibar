@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TipeData">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/day2/TipeData.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intermezzo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/day1/intermezzo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
